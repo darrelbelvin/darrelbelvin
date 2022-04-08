@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @darrelbelvin
+- 👀 I’m interested in machine learning, computer vision, and gaming.
+- 🌱 I’m currently learning more about neural networks, programming in C, and using cmake.
+- 💞️ I would love to collaborate on any cool robotics projects.
+- 📫 You can reach me at darrel.belvin@gmail.com
